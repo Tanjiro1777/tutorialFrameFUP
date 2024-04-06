@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="49b80f2a-d1c2-478e-990a-262cc09cba7d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop"
+    "git-widget-placeholder": "feature-Configuracion-ConfigJson"
   }
 }]]></component>
   <component name="RunManager">
